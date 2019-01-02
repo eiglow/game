@@ -1,0 +1,25 @@
+Initial commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   CApp.cpp
+#	new file:   CApp.h
+#	new file:   CApp_OnCleanup.cpp
+#	new file:   CApp_OnEvent.cpp
+#	new file:   CApp_OnInit.cpp
+#	new file:   CApp_OnLoop.cpp
+#	new file:   CApp_OnRender.cpp
+#	new file:   CApp_Settings.cpp
+#
+# Untracked files:
+#	.directory
+#	.gitignore
+#	bin/
+#	editing.txt
+#	game.cbp
+#
